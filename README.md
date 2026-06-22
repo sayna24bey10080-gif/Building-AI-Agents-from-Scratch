@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Agentic AI Assistant
 
 A collection of AI agent projects built using Ollama and local LLMs.
